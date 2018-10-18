@@ -1,0 +1,40 @@
+There is a mystery number that you must solve
+in order to win.  It has been encrypted using
+RSA.     
+
+Remember, to decrypt RSA its m = (c ^ d) % n 
+
+m is the original message
+c is the cyphertext
+
+The ciphertext is 3
+
+Solving the problems will lead you to the 
+information you need to decrypt it
+
+GOOD LUCK!
+
+1. To be XOR not to be
+
+	Ciphertext: 101
+	Key: 110
+
+2. Ridin the Rails
+	
+	Ciphertext: tesnhkyseeeiv
+	Key: Get it from problem 1
+
+3. Ceasar Salad
+
+	Ciphertext: upzmpmallu
+	Key: Get it from problem 2
+	
+	* Remember, undoing the caesar cipher means 
+	  you have to go the other way
+
+4. Ceasar Salad with Viginere
+
+	Ciphertext: laakmnmf 
+	Key: Second word in solution to problem 3
+
+ 
