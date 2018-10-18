@@ -2,7 +2,7 @@ There is a mystery number that you must solve
 in order to win.  It has been encrypted using
 RSA.     
 
-Remember, to decrypt RSA its m = (c ^ d) % n 
+Remember, to decrypt RSA its m = (c ** d) % n 
 
 m is the original message
 c is the cyphertext
